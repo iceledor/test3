@@ -11,7 +11,7 @@ namespace ConsoleApplication2
         static void Main(string[] args)
         {
             int a = 1;
-            Console.ReadKey();
+            Console.ReadKey();sasqs
         }
     }
 }
